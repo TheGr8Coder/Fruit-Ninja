@@ -1,1 +1,1 @@
-# http://thegr8coder.github.com/Fruit-Ninja
+# http://thegr8coder.github.io/Fruit-Ninja
